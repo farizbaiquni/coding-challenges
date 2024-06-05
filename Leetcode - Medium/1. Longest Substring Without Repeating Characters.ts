@@ -26,4 +26,4 @@ function lengthOfLongestSubstring(s: string): number {
   return result;
 }
 
-console.log(lengthOfLongestSubstring("au"));
+console.log(lengthOfLongestSubstring("abcabcd"));
